@@ -1,0 +1,47 @@
+
+      body {
+        background-color: aquamarine;
+      }
+
+      h1 {
+        text-align: center;
+        text-transform: capitalize;
+      }
+
+      .code1,
+      .code2,
+      .code3,
+      .code4,
+      .code5 {
+        text-align: center;
+        text-transform: capitalize;
+        border: 2px solid black;
+        border-radius: 10px;
+        padding: 5px;
+        margin: 2px;
+      }
+
+      h3,
+      h4 {
+        color: brown;
+        text-transform: capitalize;
+      }
+
+      #c,
+      #cpp,
+      #java,
+      #js,
+      #python {
+        border: 2px solid black;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: azure;
+        overflow: scroll;
+      }
+
+      .img1,
+      .img3,
+      .img5 {
+        float: right;
+      }
+    
